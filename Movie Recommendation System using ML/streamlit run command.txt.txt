@@ -1,0 +1,20 @@
+E:/VS Code/Movie Recommendation System using ML/movies_list.pkl
+E:/VS Code/Movie Recommendation System using ML/similarity.pkl
+
+
+
+
+
+streamlit run "E:\VS Code\movie_recommender_system-main\MovieRecommendationSystem.py"
+
+
+
+streamlit run "E:\VS Code\movie_recommender_system-main\RecommendationSystem.py"
+
+
+
+API  :   https://api.themoviedb.org/3/movie/157336?api_key=4490039c552ae0660253acf0679371a5
+
+
+
+FINAl API  : https://api.themoviedb.org/3/movie/2?api_key=4490039c552ae0660253acf0679371a5&language=en-US
